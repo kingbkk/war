@@ -36,7 +36,7 @@ let questions = [
     {
     numb: 4,
     question: "อาจาร์ในมหาลัยใครใจดีที่สุด",
-    answer: "Structured Query Language",
+    answer: "อัศวนนทปกรณ์ ธเนศวีรภัทร",
     options: [
       "อัศวนนทปกรณ์ ธเนศวีรภัทร",
       "อาจาร์ไก่",
