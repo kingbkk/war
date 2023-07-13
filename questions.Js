@@ -2,57 +2,57 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "ประเทศไทยมีกี่จังหวัด",
+    answer: "77",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "70",
+      "20",
+      "77",
+      "55"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "อาจาร์ที่หล่อที่สุดในมหาลัยมีชื่อว่าอะไร",
+    answer: "อัศวนนทปกรณ์ ธเนศวีรภัทร",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "อัศวนนทปกรณ์ ธเนศวีรภัทร",
+      "สันตื",
+      "จันทร์โอชา",
+      "ผมนี้และหล่อสุด"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "เอกอะไรมีผ.ช.หล่อมากที่สุด",
+    answer: "ฟิสิกส์",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "ฟิสิกส์",
+      "ชีวะ",
+      "เคมี",
+      "ภาษาไทย"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
+    question: "อาจาร์ในมหาลัยใครใจดีที่สุด",
     answer: "Structured Query Language",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "อัศวนนทปกรณ์ ธเนศวีรภัทร",
+      "อาจาร์ไก่",
+      "ขจร",
+      "หนูพิม"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "เมนูอะไรอาจาร์ อัศวนนทปกรณ์ ธเนศวีรภัทร กินไม่ได้",
+    answer: "ข้าว",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "ข้าว",
+      "วุ้นเส้น",
+      "วุ้นเส้น",
+      "วุ้นเส้น"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
